@@ -1,0 +1,162 @@
+.contact,
+.contact * {
+  box-sizing: border-box;
+}
+.contact {
+  background: #000000;
+  height: 1024px;
+  position: relative;
+  overflow: hidden;
+}
+.frame-4 {
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  left: 44px;
+  top: 34px;
+}
+.shruti-elango {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 40px;
+  font-weight: 400;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  -webkit-text-stroke: 1px #ffffff;
+}
+.frame-5 {
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 325px;
+  position: absolute;
+  left: 1045px;
+  top: 34px;
+}
+.frame-1 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 116px;
+  position: relative;
+}
+.homepage {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.about {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.contact2 {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.frame-8 {
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 561px;
+  position: absolute;
+  left: 439px;
+  top: 895px;
+}
+.frame-3 {
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-2 {
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.shruti-elango-university-of-maryland-fall-2025 {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.frame-21 {
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  left: 70px;
+  top: 204px;
+}
+.contact-us-reach-out-to-the-course-team-for-support-or-inquiries-student-contact-details-shruti-elango-selango-4-umd-edu-professor-contact-details-paul-t-shapiro-pshapiro-umd-edu-ta-contact-details-abhi-gupta-agupta-09-umd-edu-samiha-meah-smeah-umd-edu-zam-mozumder-zam-umd-edu {
+  color: #ffffff;
+  text-align: left;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.contact-us-reach-out-to-the-course-team-for-support-or-inquiries-student-contact-details-shruti-elango-selango-4-umd-edu-professor-contact-details-paul-t-shapiro-pshapiro-umd-edu-ta-contact-details-abhi-gupta-agupta-09-umd-edu-samiha-meah-smeah-umd-edu-zam-mozumder-zam-umd-edu-span {
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+}
+.contact-us-reach-out-to-the-course-team-for-support-or-inquiries-student-contact-details-shruti-elango-selango-4-umd-edu-professor-contact-details-paul-t-shapiro-pshapiro-umd-edu-ta-contact-details-abhi-gupta-agupta-09-umd-edu-samiha-meah-smeah-umd-edu-zam-mozumder-zam-umd-edu-span2 {
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 72px;
+  font-weight: 700;
+}
